@@ -1,5 +1,5 @@
 ## Description
-This project gets latest data for BTCUSDT, ADAUSDT and ETHUSDT symbols from Binance Public API and stores it in databse.
+This project gets latest data for BTCUSDT, ADAUSDT and ETHUSDT symbols from Binance Public API and stores it in database.
 Calculations over the data is later possible to be performed.
 
 ## Calculation Types:
